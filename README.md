@@ -1,5 +1,5 @@
 # ToDoApp
-<em>Aplicação criada durante o curso de Lógica de Programação e Algoritmos III, do Programa Start da Capgemini.</em>
+<em>Aplicação criada durante o curso de Lógica de Programação e Algoritmos III do Programa Start da Capgemini.</em>
 <p>
 <br>
   <strong>ToDoApp</strong>: A aplicação possibilita o registro de projetos e tarefas, bem como suas características, status e prazo.
